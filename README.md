@@ -205,4 +205,4 @@ Import the repository root into Vercel to deploy both services with `vercel.json
 
 ## Repository
 
-GitHub: <https://github.com/PARTH-18-06/DIGITAL-TWIN-SYSTEM-.git>
+GitHub: <https://github.com/nih803/digital-twin-system.git>
